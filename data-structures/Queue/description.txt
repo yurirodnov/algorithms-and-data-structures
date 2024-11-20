@@ -1,1 +1,0 @@
-FIFO (First In, First Out, «первым пришёл — первым ушёл»)
