@@ -1,3 +1,5 @@
+// O log n, n - array.length;
+
 const list = [2, 5, 13, 21, 35, 48, 200];
 const goal = 48;
 
