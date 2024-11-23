@@ -1,1 +1,1 @@
-My conspect about algorithms and data structures
+My abstract about algorithms and data structures
