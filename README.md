@@ -1,1 +1,1 @@
-My abstract about algorithms and data structures
+My notes about algorithms and data structures
